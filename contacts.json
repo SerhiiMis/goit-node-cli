@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "bby6301xl",
+    "name": "Anna Fetta",
+    "email": "annafetta@example.com",
+    "phone": "0908070605"
+  },
+  {
+    "id": "9ido880im",
+    "name": "Sara Fetta",
+    "email": "sarafetta@example.com",
+    "phone": "0908070604"
+  }
+]
